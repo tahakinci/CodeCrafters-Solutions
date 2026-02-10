@@ -1,0 +1,9 @@
+# .NET build artifacts
+bin/
+obj/
+.vs/
+
+# Codecrafters
+.codecrafters/
+codecrafters.yml
+your_program.sh
